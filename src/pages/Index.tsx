@@ -166,8 +166,8 @@ const Index = () => {
         </h2>
 
         <div className="space-y-2 mb-8 text-base md:text-lg">
-          <div>📍 North Wollongong to South Nowra</div>
-          <div>🧰 Full-service mobile van — we bring everything</div>
+          
+          <div>🧰 Full-service mobile — we bring everything</div>
           <div>🏆 Award-winning detailer</div>
           <div>⭐ 5.0 Star Google Reviews</div>
         </div>
@@ -178,7 +178,7 @@ const Index = () => {
             Ready for a professional clean?
           </h2>
           <p className="text-base md:text-lg text-muted-foreground">
-            Call or book online — your car will thank you.
+            Call or book online — your vehicle will thank you.
           </p>
         </section>
       </main>
