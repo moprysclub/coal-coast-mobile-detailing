@@ -106,7 +106,7 @@ const Index = () => {
       {/* Elfsight Google Reviews Widget */}
       <div className="centered" style={{ marginTop: '2rem' }}>
         <script src="https://elfsightcdn.com/platform.js" async></script>
-        <div className="elfsight-app-dbe4a0b4-fc8a-46bf-9587-2fe576efb111" data-elfsight-app-lazy></div>
+        <div className="elfsight-app-1c2bf6cf-3571-4fb6-b953-2e4af70eb37" data-elfsight-app-lazy></div>
       </div>
 
       {/* Page Structure & Copy */}
