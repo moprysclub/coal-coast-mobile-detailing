@@ -103,10 +103,10 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Elfsight Google Reviews Widget */}
+      {/* <!-- Elfsight Google Reviews | Coal Coast Mobile Detailing --> */}
       <div className="centered" style={{ marginTop: '2rem' }}>
-        <script src="https://elfsightcdn.com/platform.js" async></script>
-        <div className="elfsight-app-1c2bf6cf-3571-4fb6-b953-2e4af70eb37" data-elfsight-app-lazy></div>
+      <script src="https://elfsightcdn.com/platform.js" async></script>
+      <div class="elfsight-app-1c2bf6cf-3571-4fb6-b953-2e4af70eb375" data-elfsight-app-lazy></div>
       </div>
 
       {/* Page Structure & Copy */}
