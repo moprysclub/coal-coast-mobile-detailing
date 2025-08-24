@@ -66,7 +66,7 @@ const Index = () => {
           </div>
 
           <div className="text-lg md:text-xl text-muted-foreground mb-6">
-            Cars, utes, trucks, caravans, boats & buses — detailed anywhere in Sydney
+            Cars, utes, trucks, caravans, boats & buses
           </div>
 
           {/* Proof Bar */}
