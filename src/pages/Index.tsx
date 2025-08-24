@@ -92,7 +92,7 @@ const Index = () => {
           </div>
 
           <img 
-            src="https://i.imgur.com/x7yeKDK.png" 
+            src="https://imgur.com/ppiMsSv.png" 
             alt="Coal Coast Mobile Detailing brand/owner photo"
             className="brand-photo"
           />
