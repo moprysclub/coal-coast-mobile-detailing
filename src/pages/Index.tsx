@@ -14,15 +14,6 @@ const Index = () => {
       }
     }, 100);
 
-    // Hide Elfsight floating badge if present
-    const badgeInterval = setInterval(() => {
-      const badge = document.querySelector('a[href*="elfsight.com/google-reviews-widget"]');
-      if (badge) {
-        badge.remove();
-        clearInterval(badgeInterval);
-      }
-    }, 500);
-
     return () => {
       clearInterval(checkCalendly);
       clearInterval(badgeInterval);
