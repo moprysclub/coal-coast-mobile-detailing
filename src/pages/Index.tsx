@@ -74,7 +74,7 @@ const Index = () => {
             <div className="proof-item">
               <div className="text">
                 <div className="text-lg mb-1">🏆</div>
-                <strong>3+ years serving Sydney</strong>
+                <strong>10+ years serving Sydney</strong>
               </div>
             </div>
             <div className="proof-item">
