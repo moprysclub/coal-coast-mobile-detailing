@@ -62,11 +62,11 @@ const Index = () => {
       <section className="hero-section">
         <div className="centered">
           <div className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Car Detailing Done Right — We Come to You
+            🚘 Award-Winning Detailing That Comes to You
           </div>
 
           <div className="text-lg md:text-xl text-muted-foreground mb-6">
-            Buff & Polish, Ceramic Coating, Tinting, Rim Repair & More
+            Cars, utes, trucks, caravans, boats & buses — detailed anywhere in Sydney
           </div>
 
           {/* Proof Bar */}
@@ -74,7 +74,7 @@ const Index = () => {
             <div className="proof-item">
               <div className="text">
                 <div className="text-lg mb-1">🏆</div>
-                <strong>10+ years serving Sydney</strong>
+                <strong>10+ years & award-winning service</strong>
               </div>
             </div>
             <div className="proof-item">
@@ -86,7 +86,7 @@ const Index = () => {
             <div className="proof-item">
               <div className="text">
                 <div className="text-lg mb-1">✅</div>
-                <strong>Trusted by locals</strong>
+                <strong>Best Presented Ute Winner</strong>
               </div>
             </div>
           </div>
@@ -98,7 +98,7 @@ const Index = () => {
           />
 
           <div className="text-sm text-muted-foreground mt-4">
-            🇦🇺 Sydney Wide • 0414 671 346
+            🇦🇺 Servicing North Wollongong • South Nowra • Wollongong • and beyond — 0414 671 346
           </div>
         </div>
       </section>
@@ -116,17 +116,17 @@ const Index = () => {
         </h1>
 
         <h2 className="text-xl md:text-2xl font-semibold text-muted-foreground mb-4">
-          Serving Sydney
+          Servicing Wollongong, Nowra & Greater Sydney
         </h2>
 
         <h3 className="text-lg md:text-xl font-medium text-foreground mb-6">
-          Professional Car Detailing | Mobile Service Across the Coast
+          Over 10 years of detailing experience — fully mobile, fully equipped
         </h3>
 
         <div className="space-y-4 mb-8 text-base md:text-lg">
-          <p>Coal Coast brings professional car care to your driveway.</p>
-          <p>Interior & exterior detailing, ceramic coating, window tinting and more.</p>
-          <p>Book in minutes. Shine for days.</p>
+          <p>We bring showroom-level detailing straight to your driveway — or jobsite.</p>
+          <p>From sedans to caravans and boats, we clean, polish, and protect it all.</p>
+          <p>Trusted by locals. Award-winning service. No shortcuts, just shine.</p>
         </div>
 
         {/* What We Do */}
@@ -135,12 +135,14 @@ const Index = () => {
         </h2>
 
         <div className="services-grid">
-          <div>🧼<br />Regular Maintenance Washes</div>
-          <div>🌀<br />Buff & Polish — Paint Correction</div>
-          <div>🛡️<br />Ceramic Coating Protection</div>
-          <div>🧰<br />Full Interior & Exterior Detailing</div>
-          <div>🕶️<br />Window Tinting</div>
-          <div>🚙<br />Rim & Wheel Repair</div>
+          <div>🧼<br />Exterior Wash — hand wash, wax & tyre shine</div>
+          <div>🌀<br />Super Wash — plus interior vacuum & glass</div>
+          <div>🧽<br />Mini Detail — wheel polish, disinfect & HydroShield-X</div>
+          <div>✨<br />Full Detail — shampoo, polish, HydroShield-X</div>
+          <div>🛡️<br />HydroShield-X Protection — long-lasting shine</div>
+          <div>🚐<br />Caravan Detailing — RVs & vans polished clean</div>
+          <div>🛥️<br />Large Vehicle — trucks, buses & boats detailed</div>
+          <div>🏅<br />Awarded — Best Presented Utes winner</div>
         </div>
 
         {/* How It Works */}
@@ -149,13 +151,13 @@ const Index = () => {
         </h2>
 
         <h3 className="text-lg font-semibold text-foreground mb-4">
-          3 simple steps
+          It’s simple — we come to you
         </h3>
 
         <div className="space-y-2 mb-8 text-base md:text-lg">
-          <div>1️⃣ Call or book online in minutes</div>
-          <div>2️⃣ We come to your location in Sydney</div>
-          <div>3️⃣ Shine and drive away with confidence</div>
+          <div>1️⃣ Book a time online or by phone</div>
+          <div>2️⃣ We arrive on site with all tools & supplies</div>
+          <div>3️⃣ You relax while we restore the shine</div>
         </div>
 
         {/* Why Choose Us */}
@@ -164,18 +166,19 @@ const Index = () => {
         </h2>
 
         <div className="space-y-2 mb-8 text-base md:text-lg">
-          <div>📍 We come to you</div>
-          <div>🧰 Professional-grade tools & products</div>
+          <div>📍 North Wollongong to South Nowra</div>
+          <div>🧰 Full-service mobile van — we bring everything</div>
+          <div>🏆 Award-winning detailer</div>
           <div>⭐ 5.0 Star Google Reviews</div>
         </div>
 
         {/* Final Callout */}
         <section className="mt-12 mb-8">
           <h2 className="text-xl md:text-2xl font-bold text-foreground mb-4">
-            Ready to detail your car?
+            Ready for a professional clean?
           </h2>
           <p className="text-base md:text-lg text-muted-foreground">
-            Book now to restore that showroom look — with zero hassle.
+            Call or book online — your car will thank you.
           </p>
         </section>
       </main>
@@ -185,7 +188,7 @@ const Index = () => {
         <div className="space-y-2 text-sm text-muted-foreground">
           <div className="font-semibold">Coal Coast Mobile Detailing</div>
           <div>0414 671 346</div>
-          <div>Sydney</div>
+          <div>North Wollongong • South Nowra • Wollongong • NSW</div>
           <div className="mt-4">© 2025 Coal Coast Mobile Detailing. All rights reserved.</div>
         </div>
       </footer>
